@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jun 04 13:15:03 IST 2024","Tue Jun 04 13:15:11 IST 2024","7697","","Retirement Savings Calculator","","","","User should update default calculator values",""
+"passed","Tue Jun 04 13:14:44 IST 2024","Tue Jun 04 13:14:50 IST 2024","6472","","Retirement Savings Calculator","","","","User should submit form with all required fields filled in including social security income",""
+"passed","Tue Jun 04 13:14:50 IST 2024","Tue Jun 04 13:14:55 IST 2024","4291","","Retirement Savings Calculator","","","","should show/hide Social Security fields based on Social Security benefits toggle",""
+"passed","Tue Jun 04 13:14:29 IST 2024","Tue Jun 04 13:14:44 IST 2024","14964","","Retirement Savings Calculator","","","","User should submit form with all required fields filled in",""
+"passed","Tue Jun 04 13:14:55 IST 2024","Tue Jun 04 13:15:03 IST 2024","8523","","Retirement Savings Calculator","","","","User should submit form with all fields filled in with default values ",""
